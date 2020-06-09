@@ -84,7 +84,7 @@ class _ChatScreenState extends State<ChatScreen> {
                       }
                     },
                     child: Text(
-                      'Send',
+                      'SEND',
                       style: kSendButtonTextStyle,
                     ),
                   ),
